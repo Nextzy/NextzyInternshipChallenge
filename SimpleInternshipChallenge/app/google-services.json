@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350965362394",
+    "firebase_url": "https://nextzyintership.firebaseio.com",
+    "project_id": "nextzyintership",
+    "storage_bucket": "nextzyintership.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350965362394:android:23f7b4e6e8678ae5",
+        "android_client_info": {
+          "package_name": "com.akexorcist.nextzyintership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350965362394-ntk67d580otsskjl9v6mhv8iq590scps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akexorcist.nextzyintership",
+            "certificate_hash": "e00a4d0a43f18708b7e510546d433fdf905df748"
+          }
+        },
+        {
+          "client_id": "350965362394-r3h2bsma7ou5in8m2q8o0hnf98n6ifse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNz-SsARIAqF11Hy2CeNHYbGFyCfMEopk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350965362394-r3h2bsma7ou5in8m2q8o0hnf98n6ifse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
